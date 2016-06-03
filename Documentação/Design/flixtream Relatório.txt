@@ -1,0 +1,939 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: flixtream.ai
+Modo de cor: Cor CMYK
+Perfil de cor: Coated FOGRA39 (ISO 12647-2:2004)
+Unidades da régua: pontos
+Dimensões da prancheta: 1920 pt x 976 pt
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+Roboto Regular (TrueType)
+Roboto Bold (TrueType)
+Swis721 BlkCn BT Black (OTF)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-gladiador-13756-MLB235315104_1519-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 2939K, 836 por 1200 pixels
+Dimensões: 216,866 por 311,291 pontos 
+Resolução: 277,554 por 277,554 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download (1).jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\download.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 147K, 184 por 273 pixels
+Dimensões: 209,808 por 311,291 pontos 
+Resolução: 63,143 por 63,143 pixels por polegada
+
+
+d:\Users\Arte\Desktop\poster-a3-do-filme-a-origem-ver-lancamento-2-14640-MLB182686754_7713-F.jpg
+Tipo: RGB
+Bits por pixel: 24
+Canais: 3
+Tamanho: 1671K, 625 por 913 pixels
+Dimensões: 213,096 por 311,291 pontos 
+Resolução: 211,172 por 211,172 pixels por polegada
