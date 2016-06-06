@@ -1,0 +1,188 @@
+form{
+    margin: 0;
+}
+
+form input{
+    background: #E3E2E2;
+    border: 1px solid #B1B1B0;
+    padding: 10px;
+    margin: 0;
+    width: calc(100% - 22px);
+    font-size:18px;
+}
+
+#comecar{
+    position:relative;
+    top: 0;
+    height: 320px;
+    width: 100%;
+    overflow: hidden;
+    transition: 300ms;
+}
+
+#login{
+    position: relative;
+    background: red
+    height: 192px;
+    width: 100%;
+    overflow: hidden;
+    transition: 300ms;
+}
+
+#fundoCapas{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display:block;
+    z-index: -100;
+    overflow: hidden;
+}
+
+.fundoCapas-linha{
+    height: 200px;
+    position: relative;
+    top: 0;
+    overflow:hidden;
+}
+
+.fundoCapa-container{
+    height: 200px;
+    width: 140px;
+    background: #F2CB12;
+    float:left;
+}
+
+.fundoCapa-img{
+    width: 100%;
+}
+
+#fundoCapas-overlay{
+    position:absolute;
+    display: block;
+    top:0;
+    left:0;
+    z-index:-50;
+    background:rgba(0,0,0,0.8);
+    width:100%;
+    height: 100%;
+}
+
+#inicio-container{
+    width: 300px;
+    margin: 0;
+    display:  block;
+    position: absolute;
+    top: calc(50% - 20px);
+    left:50%;
+    transform: translateY(-50%) translateX(-50%);
+    z-index: 0;
+}
+
+#inicio-logo{
+    float: left;
+    margin: 0;
+    padding: 0;
+    height: fit-content;
+    width: 100%;
+}
+
+#inicio-logo img{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#inicio-nav{
+    float: left;
+    margin: 0;
+    width: 100%;
+    height: 106px;
+    overflow: hidden;
+    z-index: 10;
+    transition: 150ms;
+}
+
+.inicio-btn{
+    float: left;
+    margin: 0;
+    width: 100%;
+    height: 43px;
+    margin: 10px 0 0 0;
+    overflow: hidden;
+}
+
+.btn-amarelo{
+    background:#F2CB12;
+}
+
+.btn-cinza{
+    background: #4B4B4A;
+}
+
+.btn-amarelo a{
+    color: #4B4B4A;
+}
+
+.btn-amarelo a:hover{
+    color: #F2CB12;
+}
+
+.btn-cinza a{
+    color: #F2CB12;
+}
+.btn-cinza a:hover{
+    color: #4B4B4A;
+}
+
+.btn-amarelo .btn-hover-bkg{
+    background: #4B4B4A;
+}
+
+.btn-cinza .btn-hover-bkg{
+    background:#F2CB12;
+}
+
+#inicio-container a{
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 5px 0;
+    position:relative;
+    top: -400px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    transition:150ms;
+    z-index: 30;
+}
+
+.btn-hover-bkg{
+    height: 400px;
+    width: 0;
+    z-index: 20;
+    position:relative;
+    margin: 0 !important;
+    top: 50%;
+    left:50%;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+    display:block;
+    transition:80ms;
+    transition-timing-function: linear;
+}
+
+.btn-hover-bkg-rotate{
+    top:-179px;
+    width:45px;
+    transform: rotate(90deg);
+    transition:200ms;
+    transition-timing-function: ease;
+}
+
+.inicioOculto{
+    height: 0 !important;
+    transition: 500ms !important;
+    opacity: 0;
+}
