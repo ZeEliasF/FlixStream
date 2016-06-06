@@ -11,6 +11,9 @@ $u->setSenhaUsuario($_POST['senhaUsuario']);
 $uc = new UsuarioController();
 $uc->setUsuario($u);
 if ($uc->cadastrarUsuario()) {
+    session_start();
+    $_SESSION['nomeUsuario'] = $uc->getUsuario()->getNomeUsuario();
+    $_SESSION['emailUsuario'] = $uc->getUsuario()->getEmailUsuario();
     echo "<script>window.alert('Usuário cadastrado com sucesso! =D');</script>";
 } else {
     echo "<script>window.alert('Falha ao cadastrar. =/')</script>";

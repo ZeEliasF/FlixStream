@@ -71,8 +71,6 @@ class Usuario {
         $sql = "SELECT nomeUsuario,emailUsuario FROM usuario ";
         $sql .= "WHERE loginUsuario = '" . $login . "' ";
         $sql .= "AND senhaUsuario = '" . md5($senha) . "'";
-        
-        echo $sql;
         $c = new Consulta($sql);
 
         $retorno = $c->executaConsulta();
@@ -82,8 +80,6 @@ class Usuario {
             $sql = "SELECT nomeUsuario,emailUsuario FROM usuario ";
             $sql .= "WHERE emailUsuario = '" . $login . "' ";
             $sql .= "AND senhaUsuario = '" . md5($senha) . "'";
-
-            echo $sql;
             $c->setQuery($sql);
             $retorno = $c->executaConsulta();
             if ($retorno->rowCount()>0) {
