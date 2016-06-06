@@ -1,7 +1,6 @@
 <?php
 
-require_once 'Consulta.php';
-require_once 'SQL/SQL.php';
+include_once 'Consulta.php';
 
 class Usuario {
 
@@ -10,14 +9,6 @@ class Usuario {
     private $emailUsuario;
     private $loginUsuario;
     private $senhaUsuario;
-
-    function __construct($idUsuario, $nomeUsuario, $emailUsuario, $loginUsuario, $senhaUsuario) {
-        $this->idUsuario = $idUsuario;
-        $this->nomeUsuario = $nomeUsuario;
-        $this->emailUsuario = $emailUsuario;
-        $this->loginUsuario = $loginUsuario;
-        $this->senhaUsuario = $senhaUsuario;
-    }
 
     function getIdUsuario() {
         return $this->idUsuario;
@@ -60,19 +51,46 @@ class Usuario {
     }
 
     function cadastrarUsuario() {
-        $sql = new SQL("usuario");
-        $sql->addColuna("nomeUsuario", $this->nomeUsuario);
-        $sql->addColuna("emailUsuario", $this->emailUsuario);
-        $sql->addColuna("loginUsuario", $this->loginUsuario);
-        $sql->addColuna("senhaUsuario", $this->senhaUsuario);
-        $sql->insert();
-        
-        $c = new Consulta($sql->getCodigo());
-        if($c->executaConsulta()){
+        $sql = "INSERT INTO usuario(nomeUsuario,emailUsuario,loginUsuario,senhaUsuario)";
+        $sql .= "VALUES('";
+        $sql .= $this->nomeUsuario . "','";
+        $sql .= $this->emailUsuario . "','";
+        $sql .= $this->loginUsuario . "','";
+        $sql .= md5($this->senhaUsuario) . "')";
+
+        $c = new Consulta($sql);
+        if ($c->executaConsulta()) {
             return true;
         } else {
             return false;
         }
     }
 
+    function realizarLogin($login, $senha) {
+
+        $sql = "SELECT nomeUsuario,emailUsuario FROM usuario ";
+        $sql .= "WHERE loginUsuario = '" . $login . "' ";
+        $sql .= "AND senhaUsuario = '" . md5($senha) . "'";
+        
+        echo $sql;
+        $c = new Consulta($sql);
+
+        $retorno = $c->executaConsulta();
+        if ($retorno->rowCount()>0){
+            return $retorno;
+        } else {
+            $sql = "SELECT nomeUsuario,emailUsuario FROM usuario ";
+            $sql .= "WHERE emailUsuario = '" . $login . "' ";
+            $sql .= "AND senhaUsuario = '" . md5($senha) . "'";
+
+            echo $sql;
+            $c->setQuery($sql);
+            $retorno = $c->executaConsulta();
+            if ($retorno->rowCount()>0) {
+                return $retorno;
+            } else {
+                return NULL;
+            }
+        }
+    }
 }

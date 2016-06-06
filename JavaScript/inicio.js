@@ -35,41 +35,44 @@ function exibeCapas() {
     xmlhttp.onreadystatechange = function () {
         matrizCapas = [];
         capas = JSON.parse(xmlhttp.responseText);
-        var i, j, ln = new Array(), k = 0;
-        for (i = 0; i < nLin; i++) {
-            ln = [];
-            for (j = 0; j < nCol; j++) {
-                ln.push(k);
-                k++;
-                if (k >= capas.length) {
-                    k = 0;
+        if (capas.length > 0) {
+            var i, j, ln = new Array(), k = 0;
+            for (i = 0; i < nLin; i++) {
+                ln = [];
+                for (j = 0; j < nCol; j++) {
+                    ln.push(k);
+                    k++;
+                    if (k >= capas.length) {
+                        k = 0;
+                    }
                 }
+                ln = shuffle(ln);
+                matrizCapas.push(ln);
             }
-            ln = shuffle(ln);
-            matrizCapas.push(ln);
+            var conteudo = "";
+            matrizCapas.forEach(function (linha) {
+                conteudo += "<div class='fundoCapas-linha'>";
+                linha.forEach(function (elem) {
+                    conteudo += "<div class='fundoCapa-container'>";
+                    conteudo += "<img class='fundoCapa-img' src='Titulos/Capas/" + capas[elem] + "' />";
+                    conteudo += "</div>";
+                });
+                linha.forEach(function (elem) {
+                    conteudo += "<div class='fundoCapa-container'>";
+                    conteudo += "<img class='fundoCapa-img' src='Titulos/Capas/" + capas[elem] + "' />";
+                    conteudo += "</div>";
+                });
+                conteudo += "</div>";
+            });
+            elemento.innerHTML = conteudo;
         }
-        var conteudo = "";
-        matrizCapas.forEach(function (linha) {
-            conteudo += "<div class='fundoCapas-linha'>";
-            linha.forEach(function (elem) {
-                conteudo += "<div class='fundoCapa-container'>";
-                conteudo += "<img class='fundoCapa-img' src='Titulos/Capas/" + capas[elem] + "' />";
-                conteudo += "</div>";
-            });
-            linha.forEach(function (elem) {
-                conteudo += "<div class='fundoCapa-container'>";
-                conteudo += "<img class='fundoCapa-img' src='Titulos/Capas/" + capas[elem] + "' />";
-                conteudo += "</div>";
-            });
-            conteudo += "</div>";
-        });
-        elemento.innerHTML = conteudo;
         $(".fundoCapas-linha").css("width", capaLargura * nCol * 2);
     };
     xmlhttp.open("GET", "Acoes/listaCapas.php?qtd=" + qtd, true);
     xmlhttp.send();
-    dif = 0;
 }
+dif = 0;
+
 
 window.onload = function () {
     var lastmousex = -1;
@@ -113,10 +116,10 @@ function rotateBkg(elem, act) {
     }
 }
 
-function ocultarInicio(elemento){
+function ocultarInicio(elemento) {
     $(elemento).addClass("inicioOculto");
 }
 
-function mostrarInicio(elemento){
+function mostrarInicio(elemento) {
     $(elemento).removeClass("inicioOculto");
 }

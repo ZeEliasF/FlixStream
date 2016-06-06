@@ -7,10 +7,6 @@ class TituloController {
 
     private $titulo;
 
-    function __construct($titulo) {
-        $this->titulo = $titulo;
-    }
-
     function getTitulo() {
         return $this->titulo;
     }
@@ -27,7 +23,6 @@ class TituloController {
         foreach($capas as $row){
             array_push($retorno, $row['capaTitulo']);
         }
-        
         return $retorno;
     }
 }

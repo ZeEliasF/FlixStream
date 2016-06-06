@@ -1,21 +1,13 @@
 <?php
 
 require_once 'Consulta.php';
-@include_once 'SQL/SQL.php';
-@include_once '/../SQL/SQL.php';
 
 class Titulo {
+
     private $idTitulo;
     private $nomeTitulo;
     private $sinopseTitulo;
     private $capaTitulo;
-    
-    function __construct($idTitulo, $nomeTitulo, $sinopseTitulo, $capaTitulo) {
-        $this->idTitulo = $idTitulo;
-        $this->nomeTitulo = $nomeTitulo;
-        $this->sinopseTitulo = $sinopseTitulo;
-        $this->capaTitulo = $capaTitulo;
-    }
     
     function getIdTitulo() {
         return $this->idTitulo;
@@ -48,12 +40,15 @@ class Titulo {
     function setCapaTitulo($capaTitulo) {
         $this->capaTitulo = $capaTitulo;
     }
-    
-    static function aleatorizarCapas($quantidade){
-        $c = new Consulta("SELECT capaTitulo FROM titulo ORDER BY RAND() LIMIT ".$quantidade);
-        
+
+    static function aleatorizarCapas($quantidade) {
+        $c = new Consulta("SELECT capaTitulo FROM titulo ORDER BY RAND() LIMIT " . $quantidade);
+
         $resultado = $c->executaConsulta();
-        
-        return $resultado;
+
+        if ($resultado->rowCount()) {
+            return $resultado;
+        }
     }
+
 }

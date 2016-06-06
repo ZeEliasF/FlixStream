@@ -22,7 +22,6 @@ form input{
 
 #login{
     position: relative;
-    background: red
     height: 192px;
     width: 100%;
     overflow: hidden;
@@ -50,7 +49,6 @@ form input{
 .fundoCapa-container{
     height: 200px;
     width: 140px;
-    background: #F2CB12;
     float:left;
 }
 
@@ -185,4 +183,9 @@ form input{
     height: 0 !important;
     transition: 500ms !important;
     opacity: 0;
+}
+
+.senhasDiferentes{
+    background: #FFDCDC;
+    border: 1px solid #FF6969;
 }
